@@ -6,4 +6,5 @@ EarthSmart is developed by Morocco Casablanca GDSC EMSI ORANGERS team: Riyad Rac
 
 
 The data source can be found at: https://ourworldindata.org/sdgs/responsible-consumption-production#article-citation.
+
 For accessing the code, please visit: https://colab.research.google.com/github/riyad03/EarthSmart/blob/main/sustainable_consumption_and_production_model.ipynb#scrollTo=6FoEuEu1dlRQ.
