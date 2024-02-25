@@ -5,21 +5,21 @@ The model is still in developement and it will cover a range of other topics Ali
 
 By understanding forcasted data, policymakers can:
 
-    -Develop and implement effective resource management strategies.
-    -Invest in renewable energy sources and sustainable infrastructure.
-    -Set national and regional sustainability goals.
+   -Develop and implement effective resource management strategies.
+   -Invest in renewable energy sources and sustainable infrastructure.
+   -Set national and regional sustainability goals.
 
 Businesses can use EarthSmart's insights to:
 
-    -Identify areas for reducing their environmental footprint.
-    -Develop more sustainable products and services.
-    -Meet the growing demand for eco-friendly practices.
+   -Identify areas for reducing their environmental footprint.
+   -Develop more sustainable products and services.
+   -Meet the growing demand for eco-friendly practices.
 
 Individuals can leverage EarthSmart's model to:
 
-  -Make informed choices about their consumption habits.
-  -Reduce their individual environmental impact.
-  -Support businesses and organizations for sustainability and reduce waste.
+   -Make informed choices about their consumption habits.
+   -Reduce their individual environmental impact.
+   -Support businesses and organizations for sustainability and reduce waste.
 
 
 ![logoo](https://github.com/riyad03/EarthSmart/assets/108437749/400dfa4e-a40d-4426-9cf8-9ad6601a9ff5)
