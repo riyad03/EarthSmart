@@ -4,6 +4,7 @@ EarthSmart predicts the amount of materials and resources an average person in a
 The model is still in developement and it will cover a range of other topics Aligned with Sustainable Development Goal 12, SmartEarth in the future
 
 EarthSmart is developed by Morocco Casablanca GDSC EMSI ORANGERS team: Riyad Rachidi, Souhail Fairadi, Mouhcine hakim,  Anass Amazzar.
+
 ![logoo](https://github.com/riyad03/EarthSmart/assets/108437749/400dfa4e-a40d-4426-9cf8-9ad6601a9ff5)
 
 
